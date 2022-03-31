@@ -9,7 +9,7 @@
 	<url>http://maven.apache.org</url>
 	<properties>
 		<javaee.version>7.0</javaee.version>
-		<sping.version>4.3.6.RELEASE</sping.version>
+		<sping.version>5.3.18</sping.version>
 	</properties>
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/javax/javaee-api -->
